@@ -1,0 +1,44 @@
+product/productId: B000GKXY4S
+product/title: Crazy Shape Scissor Set
+product/price: unknown
+review/userId: A1QA985ULVCQOB
+review/profileName: Carleen M. Amadio "Lady Dragonfly"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1314057600
+review/summary: Fun for adults too!
+review/text: I really enjoy these scissors for my inspiration books that I am making (like collage, but in books) and using these different textures these give is just wonderful, makes a great statement with the pictures and sayings. Want more, perfect for any need you have even for gifts as well. Pretty cool!
+
+product/productId: B000GKXY4S
+product/title: Crazy Shape Scissor Set
+product/price: unknown
+review/userId: ALCX2ELNHLQA7
+review/profileName: Barbara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328659200
+review/summary: Making the cut!
+review/text: Looked all over in art supply and other stores for "crazy cutting" scissors for my 4-year old grandson. These are exactly what I was looking for - fun, very well made, metal rather than plastic blades (so they actually do a good job of cutting paper), safe ("blunt") ends, etc. (These really are for age 4 and up, not younger.) Very high quality. Very pleased with the product.
+
+product/productId: B000140KIW
+product/title: Fiskars Softouch Multi-Purpose Scissors 10"
+product/price: unknown
+review/userId: A2M2M4R1KG5WOL
+review/profileName: L. Heminway
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1156636800
+review/summary: Fiskars Softouch Multi-Purpose Scissors, 10"
+review/text: These are the BEST scissors I have ever owned. I am left-handed and take note that either a left or right-handed person can use these equally well.If you have arthritis, as I do, these scissors are amazing as well. Well worth the price. I now own three pairs of these and have convinced many other people in my quilting group that they NEED a pair as well!They cut through muli layers and difficult to cut items really well.Do buy them, you won't regret it!
+
+product/productId: B000140KIW
+product/title: Fiskars Softouch Multi-Purpose Scissors 10"
+product/price: unknown
+review/userId: ARQAQ6ZYMFPCA
+review/profileName: R. GARCIA
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214784000
+review/summary: Best scissors ever
+review/text: This Fiskars Scissors are the best i've bougth in time. It are excellent for delicated fabrics and silck ribbon embroidery, also work perfectly with paper.
+

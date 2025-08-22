@@ -1,0 +1,22 @@
+product/productId: B000H9LE4U
+product/title: Copper 122-H04 Hard Drawn Round Tubing, ASTM B75, 1/2&#034; OD, 0.436&#034; ID, 0.032&#034; Wall, 96&#034; Length
+product/price: 22.14
+review/userId: ABWHUEYK6JTPP
+review/profileName: Robert Campbell
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1339113600
+review/summary: Either 1 or 5 Stars. Depends on how you look at it.
+review/text: Either 1 or 5 Stars. Depends on how you look at it.1 Star because they sent 6 feet of 2" OD copper pipe.0 Star because they won't accept returns on it.5 stars because I figure it's actually worth $12-15/foot and since they won't take a return I figure I can sell it and make $40-50 on this deal
+
+product/productId: B000LDNH8I
+product/title: Bacharach 0012-7012 Sling Psychrometer, 25?F to 120?F, red spirit filled
+product/price: 84.99
+review/userId: A19Y7ZIICAKM48
+review/profileName: T Foley "computer guy"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1248307200
+review/summary: I recommend this Sling Psychrometer
+review/text: Not too much to say. This instrument is well built, accurate (compared) to a known good source. It's easy to use, has great instructions if you haven't used one before and stores compactly.I compared prices before I purchased and this is a good value.
+

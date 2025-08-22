@@ -1,0 +1,6 @@
+python src/preprocessing.py 
+python -m venv venv
+.\env\Scripts\activate
+streamlit run streamlit/app.py
+
+A2DW31QNM0JTEJ

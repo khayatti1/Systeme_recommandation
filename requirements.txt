@@ -1,0 +1,4 @@
+pyspark
+pandas
+streamlit
+scikit-learn

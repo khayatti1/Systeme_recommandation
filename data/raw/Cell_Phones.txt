@@ -1,0 +1,33 @@
+product/productId: B000JVER7W
+product/title: Mobile Action MA730 Handset Manager - Bluetooth Data Suite
+product/price: unknown
+review/userId: A1RXYH9ROBAKEZ
+review/profileName: A. Igoe
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1233360000
+review/summary: Don't buy!
+review/text: First of all, the company took my money and sent me an email telling me the product was shipped. A week and a half later I received another email telling me that they are sorry, but they don't actually have any of these items, and if I received an email telling me it has shipped, it was a mistake.When I finally got my money back, I went through another company to buy the product and it won't work with my phone, even though it depicts that it will. I have sent numerous emails to the company - I can't actually find a phone number on their website - and I still have not gotten any kind of response. What kind of customer service is that? No one will help me with this problem. My advice - don't waste your money!
+
+product/productId: B000JVER7W
+product/title: Mobile Action MA730 Handset Manager - Bluetooth Data Suite
+product/price: unknown
+review/userId: A7L6E1KSJTAJ6
+review/profileName: Steven Martz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1191456000
+review/summary: Mobile Action Bluetooth Mobile Phone Tool Software MA-730
+review/text: Great product- tried others and this is a ten compared to them. Real easy to use and sync's easily. Definite recommended buy to transfer data to and from your Cell.
+
+product/productId: B000JVER7W
+product/title: Mobile Action MA730 Handset Manager - Bluetooth Data Suite
+product/price: unknown
+review/userId: A2NOQQ7I6PU7CW
+review/profileName: Daniel M. Johnson "rocknbluesharp"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1186704000
+review/summary: good
+review/text: works real good....a little hard to set up...web part doesnt work thru handset manager as advertised.....have to go into networking and turn it on
+
